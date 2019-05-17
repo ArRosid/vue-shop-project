@@ -1,4 +1,5 @@
-# vue-practice-shop
+# vue-shop-project
+Shop Project build using vue
 
 ## Project setup
 ```
@@ -27,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
