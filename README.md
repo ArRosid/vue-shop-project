@@ -1,6 +1,8 @@
 # vue-shop-project
 Shop Project build using vue
 
+<img src="pict/pict1.png"></img>
+
 ## Project setup
 ```
 npm install
